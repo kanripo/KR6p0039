@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:15.458670
+#+DATE: 2015-08-30 21:02:16.502463
 #+TITLE: 釋淨土群疑論
 #+PROPERTY: CBETA_ID T47n1960
 #+PROPERTY: ID KR6p0039
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1960
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DUN
 #+PROPERTY: LASTPB <pb:KR6p0039_T_000-0030b>¶¶¶
-#+PROPERTY: LASTPB <pb:KR6p0039_T_004-0050a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: LASTPB <pb:KR6p0039_T_004-0050a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 釋淨土群疑論卷第四¶
+釋淨土群疑論卷第四¶
 ¶
 西都千福寺大德懷感撰¶
 
@@ -159,7 +158,7 @@
 等。悉長邪三毒。應言常見十方諸佛。命終¶
 之時身心安樂眼見諸佛持花來迎。若爾者。¶
 觀經所說九品往生聖眾來迎。此教應是邪¶
-三毒法。此諸聖眾應並是魔。即應此經非佛¶
+三毒法。此諸聖眾應並是摩。即應此經非佛¶
 經法是魔法也。又有邪三毒。能感魔鬼。何必¶
 要須見佛方是魔來願生西方始感神鬼。但¶
 阿彌陀佛四十八願。接引一切罪惡眾生。悉¶

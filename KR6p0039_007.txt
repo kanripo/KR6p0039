@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:15.562991
+#+DATE: 2015-08-30 21:02:16.591027
 #+TITLE: 釋淨土群疑論
 #+PROPERTY: CBETA_ID T47n1960
 #+PROPERTY: ID KR6p0039
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1960
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DUN
 #+PROPERTY: LASTPB <pb:KR6p0039_T_000-0030b>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6p0039_T_007-0070a> 
 #+PROPERTY: JUAN 7
 ¶
-
- 釋淨土群疑論卷第七¶
+釋淨土群疑論卷第七¶
 ¶
 西都千福寺大德懷感撰¶
 
@@ -41,7 +40,7 @@
 
 問曰。如無量壽經言。小行菩薩及修習少福¶
 德者。皆當得生極樂世界。阿彌陀經言。不可¶
-以少善根福德因緣得生彼國。二經相違如¶
+以小善根福德因緣得生彼國。二經相違如¶
 何會釋。
 <pb:KR6p0039_T_007-0070b>¶
 
@@ -696,4 +695,4 @@
 如所責。經言正作。其何怪哉。¶
 釋淨土群疑論卷第七¶
 
-建長二年(庚戌)季夏日　願主比丘往成
+建長二年庚戌季夏日　願主比丘往成(庚戌)
