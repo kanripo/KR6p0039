@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:16.502463
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:53
 #+TITLE: 釋淨土群疑論
 #+PROPERTY: CBETA_ID T47n1960
 #+PROPERTY: ID KR6p0039
